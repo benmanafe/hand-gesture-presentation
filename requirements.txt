@@ -1,6 +1,5 @@
 streamlit
-cv2
+opencv-contrib-python
 cvzone
 numpy
 Pillow
-opencv-python
