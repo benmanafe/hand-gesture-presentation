@@ -1,7 +1,5 @@
 streamlit
 opencv-python
 cvzone
-mediapipe
 numpy
 Pillow
-cv2
