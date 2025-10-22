@@ -1,5 +1,8 @@
+pip==24.0
+setuptools==68.2.2
 streamlit
 opencv-python
 cvzone
 numpy
 Pillow
+mediapipe==0.10.14
