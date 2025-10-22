@@ -4,3 +4,4 @@ cvzone
 mediapipe
 numpy
 Pillow
+cv2
