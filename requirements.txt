@@ -1,5 +1,6 @@
 streamlit
-opencv-python-headless
+streamlit_webrtc                                                           
+opencv-python
 numpy
 Pillow
 mediapipe
